@@ -4,7 +4,7 @@
     "enable": "houdini_version >= '20.5'", 
     "env": [
         {
-            "HOUDINILUTVOLUME": "$HOUDINI_PACKAGE_PATH/HoudiniLUTVolume"
+            "HOUDINILUTVOLUME": "$HOUDINI_PACKAGE_PATH/houdinilutvolume"
         }
     ]
 }
