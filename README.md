@@ -37,12 +37,3 @@ This package includes the following two HDAs:
 2. Copy and paste `houdinilutvolume.json` in it into `$HOUDINI_PREF_DIR/packages`.
 
 cf. [Houdini packages | Houdini help](https://www.sidefx.com/docs/houdini/ref/plugins.html)
-
-## License / Other Notes
-
-- Please specify your license and distribution policy as appropriate.
-
-## Notes
-
-- This version supports `.cube` LUT files only.  
-  Support for other LUT formats is planned for future releases.
