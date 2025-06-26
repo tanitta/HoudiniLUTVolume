@@ -1,0 +1,10 @@
+{
+    "path": "$HOUDINILUTVOLUME", 
+    "version": "1.0.0", 
+    "enable": "houdini_version >= '20.5'", 
+    "env": [
+        {
+            "HOUDINILUTVOLUME": "$HOUDINI_PACKAGE_PATH/HoudiniLUTVolume"
+        }
+    ]
+}
